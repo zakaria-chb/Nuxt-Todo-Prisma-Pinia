@@ -1,3 +1,5 @@
+![todo](https://github.com/user-attachments/assets/32046d4b-f997-41ba-a51f-e76663cdedec)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
